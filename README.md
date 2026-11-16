@@ -2,7 +2,7 @@
 
 #### BioScope it is an application focused on monitoring Sol's RNG biomes and merchants in the game! 
 
-### A fishing and automated purchasing system is planned and will be launched soon. 
+#### A fishing and automated purchasing system is planned and will be launched soon. 
 
 #### This macro may contain errors, so please join our community:
 
