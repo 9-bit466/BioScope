@@ -1,0 +1,65 @@
+IMPORTANT NOTICE
+
+This agreement is available in English and Portuguese. In case of any differences between the translations, the English version will be used as the reference.
+
+Unauthorized Modification: Modifying or reverse engineering the compiled application without authorization is prohibited.
+
+Unauthorized Distribution: Redistributing or re-uploading the official APK without authorization is prohibited.
+
+No Warranty: BioScope is provided "AS IS", without any guarantee of continuous operation or error-free performance.
+
+END USER LICENSE AGREEMENT (EULA)
+
+BioScope — Last updated: November 15, 2026
+
+1. ABOUT BIOSCOPE
+
+BioScope is an Android application developed to provide monitoring and automation tools for compatible gaming activities.
+
+The application may receive updates, changes, and new features over time.
+
+2. LICENSE AND RESTRICTIONS
+
+By using BioScope, you agree to the following terms:
+
+You may install and use the application for personal purposes.
+
+You may not redistribute or re-upload the official APK without the developer's authorization.
+
+You may not sell or distribute modified versions of the application without authorization.
+
+You may not remove the developer credits or copyright notices.
+
+You may not modify, crack, or reverse engineer the compiled application without authorization.
+
+3. DISCLAIMER OF WARRANTY
+
+BioScope is provided "AS IS".
+
+The developer does not guarantee that the application will work correctly at all times, be compatible with every device, or operate without interruptions.
+
+4. THIRD-PARTY SERVICES
+
+BioScope requires a third-party service to function, such as Shizuku.
+
+These services are maintained independently and may change without prior notice.
+
+BioScope is an independent project and is not officially affiliated with Roblox Corporation or Shizuku.
+
+5. CONTACT
+
+For questions or other matters related to BioScope:
+
+Developer: Melo (@hgvgtvp_official on Discord)
+
+Contact: bioscopemacro@gmail.com
+
+6. FINAL TERMS
+
+The developer (Melo) may update this agreement whenever necessary.
+
+If you do not agree with these terms, stop using BioScope and uninstall the application.
+
+© 2026 BioScope. All rights reserved.
+
+
