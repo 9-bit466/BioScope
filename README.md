@@ -3,10 +3,10 @@
 #### BioScope it is an application focused on monitoring Sol's RNG biomes and merchants in the game! Built with Kotlin and integrated with Shizuku
 
 ### Features
-- auto afk
-- auto SC+BR (Strange Controller+Biome Randomizer)
-- detection biome
-- detection merchant
+- Auto AFK
+- Auto SC+BR (Strange Controller+Biome Randomizer)
+- Biome detection
+- Merchant detection
 
 ### Requirements 
 - Android 8+
