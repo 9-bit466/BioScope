@@ -1,6 +1,17 @@
 ## BioScope <p align="center"> <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">   <img src="https://img.shields.io/badge/Service-Shizuku-2196F3?style=for-the-badge"></p>
 
-#### BioScope it is an application focused on monitoring Sol's RNG biomes and merchants in the game! 
+#### BioScope it is an application focused on monitoring Sol's RNG biomes and merchants in the game! Built with Kotlin and integrated with Shizuku
+
+### Features
+- auto afk
+- auto SC+BR (Strange Controller+Biome Randomizer)
+- detection biome
+- detection merchant
+
+### Requirements 
+- Android 8+
+- Shizuku
+- Screen overlay permission
 
 #### A fishing and automated purchasing system is planned and will be launched soon. 
 
